@@ -18,5 +18,5 @@ This project provides a foundation for building a robust API using Node.js, Type
 1. **Clone the repository:**
 
    ```bash
-   git clone [invalid URL removed]
+   git clone https://github.com/VaheAA/express-typescript-starter.git
    cd api
