@@ -20,3 +20,4 @@ This project provides a foundation for building a robust API using Node.js, Type
    ```bash
    git clone https://github.com/VaheAA/express-typescript-starter.git
    cd api
+   npm install
